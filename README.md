@@ -4,7 +4,7 @@ Développeur web/mobile passionné et motivé.
 
 ## Informations
 
-- 👨‍🎓 Actuellement en alternance chez **PSA Vesoul / LP AMIO**
+- 👨‍🎓 Actuellement en alternance chez **Netizis / Ynov Lyon**
 
 - 🌱 Je me forme avec les technologies **Laravel, Vue.js et Flutter <3**
 
