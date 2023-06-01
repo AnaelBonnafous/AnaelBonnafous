@@ -1,183 +1,37 @@
-# Bonjour 👋 je suis Anaël Bonnafous
+# Bien le bonjour ! 👋
 
-Développeur web/mobile passionné et motivé.
+**Je m'appelle Anaël Bonnafous** - Développeur web junior passionné et intéressé par les aspects frontend, backend et mobile du métier. Je me forme très largement en autodidacte sur des technologies nouvelles et j'adore échanger à ce sujet avec d'autres développeurs. Je travaille en ce moment sur différents projets personnels et commence à m'initier à la contribution à l'open source.
 
-## Informations
+[![SkillIcons](https://skillicons.dev/icons?i=laravel,vue,nuxt,alpinejs,tailwind,vite,mysql,php,ts,js,html,css,sass,wordpress,git)](https://skillicons.dev)
 
-- 👨‍🎓 Actuellement en alternance chez **Netizis / Ynov Lyon**
+## 🔎 Informations
 
-- 🌱 Je me forme avec les technologies **Laravel, Vue.js et Flutter <3**
+- 🎓 Actuellement étudiant à **Ynov Lyon** et en apprentissage chez **Netizis**
 
-- ⚡ Mes passions sont la **Photographie**, l'**Urbex**, les **Jeux-vidéos**
+- 😍 Fan des frameworks de développement **Vue**💚 **Laravel**❤️ et **Ionic**💙
 
-## Liens
+- 🌱 Explorant toujours de nouvelles technologies : **Astro**, **Livewire**, **Inertia**, etc...
 
-- 👨‍💻 Mon portfolio en ligne : **[anaelbonnafous.fr](anaelbonnafous.fr)**
+- ⭐ Passionné par **le développement web**, **la photographie** et **l'urbex**
 
-- 📫 Mon adresse mail : **anael.bonnafous@gmail.com**
+- 📫 N'hésitez pas à me contacter par [**mail**](mailto:anael.bonnafous@gmail.com) ou via [**mon site web**](https://anaelbonnafous.fr/)
 
-- 🔗 Mes liens : **[Linkedin](https://linkedin.com/in/anaelbonnafous)**, **[GitHub](https://github.com/AnaelBonnafous/)**
+[![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaelBonnafous)
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaelbonnafous/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anael_bonnafous/)
+[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/607890559406964746)
+[![website](https://img.shields.io/badge/site_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anaelbonnafous.fr/)
 
-## Mes langages et outils
+## 📈 Statistiques
 
-<table>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaelBonnafous&theme=nord&locale=fr&count_private=true&show_icons=true&hide_border=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaelBonnafous&theme=nord&locale=fr&langs_count=3&hide=html,css&hide_border=true&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaelBonnafous&theme=nord&hide_border=true&locale=fr)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<tr>
+## 💡 Projets
 
-<td>
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=AnaelBonnafous&repo=torion&theme=nord&locale=fr&hide_border=true)](https://github.com/AnaelBonnafous/torion)
+[![Jamstack](https://github-readme-stats.vercel.app/api/pin/?username=AnaelBonnafous&repo=Jamstack&theme=nord&locale=fr&hide_border=true)](https://github.com/AnaelBonnafous/Jamstack)
+[![CodeSnippetRealtime](https://github-readme-stats.vercel.app/api/pin/?username=AnaelBonnafous&repo=CodeSnippetRealtime&theme=nord&locale=fr&hide_border=true)](https://github.com/AnaelBonnafous/CodeSnippetRealtime)
 
-### Programmation
-
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.php.net" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-&nbsp;&nbsp;
-
-<!-- ```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-``` -->
-
-</td>
-
-<td>
-
-### Base de données
-
-&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.sqlite.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-&nbsp;&nbsp;
-
-<!-- ```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-``` -->
-
-</td>
-
-<td>
-
-### DevOps
-
-&nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-&nbsp;&nbsp;
-
-<!-- ```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-``` -->
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Développement Backend
-
-&nbsp;&nbsp;
-<a href="https://laravel.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-&nbsp;&nbsp;
-
-<!-- ```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-``` -->
-
-</td>
-
-<td>
-
-### Développement Frontend
-
-&nbsp;&nbsp;
-<a href="https://vuejs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://vuetifyjs.com/en/" target="_blank"> 
-<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-&nbsp;&nbsp;
-
-<!-- ```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-``` -->
-
-</td>
-
-<td>
-
-### Développement Mobile
-
-&nbsp;&nbsp;
-<a href="https://flutter.dev" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://dart.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://ionicframework.com" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a>
-&nbsp;&nbsp;
-
-<!-- ```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-``` -->
-
-</td>
-
-</tr>
-
-</table>
-
-<!--
-![Mes langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs?username=anaelbonnafous&show_icons=true&locale=fr&layout=compact&theme=dark)
-
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=anaelbonnafous&show_icons=true&locale=fr&theme=dark)
--->
+<a href="https://app.daily.dev/AnaelBonnafous"><img src="https://api.daily.dev/devcards/0cf5b9f8e6724f2493f8e5e15848676d.png?r=aym" width="400" alt="Anaël Bonnafous's Dev Card"/></a>
