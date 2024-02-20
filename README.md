@@ -37,4 +37,4 @@
 [![Malton](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=Malton&theme=github_dark)](https://github.com/MALTdev/Malton)
 [![IslandCrossing](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=IslandCrossing&theme=github_dark)](https://github.com/MALTdev/IslandCrossing)
 
-<a href="https://app.daily.dev/AnaelBonnafous"><img src="https://api.daily.dev/devcards/0cf5b9f8e6724f2493f8e5e15848676d.png?r=aym" width="400" alt="Anaël Bonnafous's Dev Card"/></a>
+[![Anaël Bonnafous's Dev Card](devcard.png)](https://app.daily.dev/AnaelBonnafous)
