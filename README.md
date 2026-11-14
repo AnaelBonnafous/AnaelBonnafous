@@ -1,6 +1,6 @@
 # Bien le bonjour ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-**Je m'appelle Anaël Bonnafous** - Développeur web passionné et intéressé par les aspects frontend, backend et mobile du métier. Je me forme très largement en autodidacte sur des technologies nouvelles et j'adore échanger à ce sujet avec d'autres développeurs. Je travaille en ce moment sur différents projets personnels et commence à m'initier à la contribution à l'open source.
+**Je m'appelle Anaël Bonnafous** - Développeur web passionné et intéressé par les aspects frontend, backend et mobile du métier. Je me forme très largement en autodidacte sur des technologies nouvelles et j'adore échanger à ce sujet avec d'autres développeurs. Je travaille en ce moment sur différents projets personnels et commence à m'initier à la contribution à l'open source.
 
 [![SkillIcons](https://skillicons.dev/icons?i=laravel,vue,nuxt,alpinejs,tailwind,vite,mysql,php,ts,js,html,css,sass,git,docker)](https://skillicons.dev)
 
@@ -8,15 +8,15 @@
 
 ## 🔎 Informations
 
-- 🎓 Actuellement étudiant à **Ynov Lyon** et en apprentissage chez **Netizis**
+- 🎓 Actuellement étudiant à **Ynov Lyon** et en apprentissage chez **Netizis**
 
-- 😍 Fan des frameworks de développement **Vue**💚 **Laravel**❤️ et **Ionic**💙
+- 😍 Fan des frameworks de développement **Vue**💚 **Laravel**❤️ et **Ionic**💙
 
-- 🌱 Explorant toujours de nouvelles technologies : **Astro**, **Livewire**, **Inertia**, etc...
+- 🌱 Explorant toujours de nouvelles technologies : **Astro**, **Livewire**, **Inertia**, etc...
 
-- ⭐ Passionné par **le développement web**, **la photographie** et **l'urbex**
+- ⭐ Passionné par **le développement web**, **la photographie** et **l'urbex**
 
-- 📫 N'hésitez pas à me contacter par [**mail**](mailto:anael.bonnafous@gmail.com) ou via [**mon site web**](https://anaelbonnafous.fr/)
+- 📫 N'hésitez pas à me contacter par [**mail**](mailto:anael.bonnafous@gmail.com) ou via [**mon site web**](https://anaelbonnafous.fr/)
 
 [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/607890559406964746)
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaelbonnafous/)
