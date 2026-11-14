@@ -36,5 +36,3 @@
 [![Jamstack](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=mars-rover-ts&theme=github_dark)](https://github.com/MALTdev/mars-rover-ts)
 [![Malton](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=Malton&theme=github_dark)](https://github.com/MALTdev/Malton)
 [![IslandCrossing](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=IslandCrossing&theme=github_dark)](https://github.com/MALTdev/IslandCrossing)
-
-[![Anaël Bonnafous's Dev Card](devcard.png)](https://app.daily.dev/anaelbonnafous)
