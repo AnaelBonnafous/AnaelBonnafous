@@ -2,9 +2,9 @@
 
 **Je m'appelle Anaël Bonnafous** - Développeur web passionné et intéressé par les aspects frontend, backend et mobile du métier. Je me forme très largement en autodidacte sur des technologies nouvelles et j'adore échanger à ce sujet avec d'autres développeurs. Je travaille en ce moment sur différents projets personnels et commence à m'initier à la contribution à l'open source.
 
-[![SkillIcons](https://skillicons.dev/icons?i=laravel,vue,nuxt,alpinejs,tailwind,vite,mysql,php,ts,js,html,css,sass,git,docker)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=laravel,vue,nuxt,alpinejs,tailwind,vite,mysql,php,ts,js,html,css,sass,git,docker)](https://github.com/tandpfun/skill-icons)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=E6EDF3&background=0D1117&center=true&vCenter=true&width=550&separator=%3C&lines=eat(%F0%9F%8D%BD%EF%B8%8F);+sleep(%F0%9F%9B%8F%EF%B8%8F);+code(%F0%9F%92%BB);+repeat(%F0%9F%94%81);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=E6EDF3&background=0D1117&center=true&vCenter=true&width=550&separator=%3C&lines=eat(%F0%9F%8D%BD%EF%B8%8F);+sleep(%F0%9F%9B%8F%EF%B8%8F);+code(%F0%9F%92%BB);+repeat(%F0%9F%94%81);)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ## 🔎 Informations
 
@@ -24,15 +24,15 @@
 
 ## 📈 Statistiques
 
-[![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaelBonnafous&theme=github_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vn7n24fzkq/github-profile-summary-cards))
-[![Top languages used in repository card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaelBonnafous&theme=github_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vn7n24fzkq/github-profile-summary-cards))
-[![Top languages in commits card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnaelBonnafous&theme=github_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vn7n24fzkq/github-profile-summary-cards))
-[![GitHub stats card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaelBonnafous&theme=github_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vn7n24fzkq/github-profile-summary-cards))
-[![Productive time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnaelBonnafous&theme=github_dark&utcOffset=2)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vn7n24fzkq/github-profile-summary-cards))
+[![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaelBonnafous&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top languages used in repository card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaelBonnafous&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top languages in commits card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnaelBonnafous&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub stats card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaelBonnafous&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnaelBonnafous&theme=github_dark&utcOffset=2)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 💡 Projets
 
-[![Torion](https://github-stats-extended.vercel.app/api/pin/?username=AnaelBonnafous&repo=torion&theme=github_dark)](https://github.com/AnaelBonnafous/torion)
-[![Jamstack](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=mars-rover-ts&theme=github_dark)](https://github.com/MALTdev/mars-rover-ts)
-[![Malton](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=Malton&theme=github_dark)](https://github.com/MALTdev/Malton)
-[![IslandCrossing](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=IslandCrossing&theme=github_dark)](https://github.com/MALTdev/IslandCrossing)
+[![Torion](https://github-stats-extended.vercel.app/api/pin/?username=AnaelBonnafous&repo=torion&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
+[![Jamstack](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=mars-rover-ts&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
+[![Malton](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=Malton&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
+[![IslandCrossing](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=IslandCrossing&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
