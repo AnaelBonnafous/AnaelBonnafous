@@ -32,7 +32,5 @@
 
 ## 💡 Projets
 
-[![Torion](https://github-stats-extended.vercel.app/api/pin/?username=AnaelBonnafous&repo=torion&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
-[![Jamstack](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=mars-rover-ts&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 [![Malton](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=Malton&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 [![IslandCrossing](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=IslandCrossing&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
