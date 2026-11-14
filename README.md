@@ -32,7 +32,7 @@
 
 ## 💡 Projets
 
-[![Torion](https://github-readme-stats.vercel.app/api/pin/?username=AnaelBonnafous&repo=torion&theme=github_dark)](https://github.com/AnaelBonnafous/torion)
-[![Jamstack](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=mars-rover-ts&theme=github_dark)](https://github.com/MALTdev/mars-rover-ts)
-[![Malton](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=Malton&theme=github_dark)](https://github.com/MALTdev/Malton)
-[![IslandCrossing](https://github-readme-stats.vercel.app/api/pin/?username=MALTdev&repo=IslandCrossing&theme=github_dark)](https://github.com/MALTdev/IslandCrossing)
+[![Torion](https://github-stats-extended.vercel.app/api/pin/?username=AnaelBonnafous&repo=torion&theme=github_dark)](https://github.com/AnaelBonnafous/torion)
+[![Jamstack](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=mars-rover-ts&theme=github_dark)](https://github.com/MALTdev/mars-rover-ts)
+[![Malton](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=Malton&theme=github_dark)](https://github.com/MALTdev/Malton)
+[![IslandCrossing](https://github-stats-extended.vercel.app/api/pin/?username=MALTdev&repo=IslandCrossing&theme=github_dark)](https://github.com/MALTdev/IslandCrossing)
