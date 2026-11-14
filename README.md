@@ -18,9 +18,9 @@
 
 - 📫 N'hésitez pas à me contacter par [**mail**](mailto:anael.bonnafous@gmail.com) ou via [**mon site web**](https://anaelbonnafous.fr/)
 
-[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/607890559406964746)
-[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaelbonnafous/)
-[![website](https://img.shields.io/badge/site_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anaelbonnafous.fr/)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/607890559406964746)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaelbonnafous/)
+[![Website](https://img.shields.io/badge/site_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anaelbonnafous.fr/)
 
 ## 📈 Statistiques
 
